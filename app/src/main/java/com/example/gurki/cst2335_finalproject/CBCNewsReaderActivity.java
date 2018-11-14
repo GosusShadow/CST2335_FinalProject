@@ -22,7 +22,7 @@ import java.util.ArrayList;
 @Author: Mahdi Khiari
  */
 public class CBCNewsReaderActivity extends AppCompatActivity {
-///fff
+///fffbbhhb
     ListView newsList;
     Button searchButton;
     EditText searchEdit;
